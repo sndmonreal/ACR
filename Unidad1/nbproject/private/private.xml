@@ -3,10 +3,9 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/sndmo/Documents/NetBeansProjects/Unidad1/src/PrimerClienteServidorTCP/ServidorECHOTCP.java</file>
-            <file>file:/C:/Users/sndmo/Documents/NetBeansProjects/Unidad1/src/PrimerClienteServidorTCP/ServidorTCP.java</file>
-            <file>file:/C:/Users/sndmo/Documents/NetBeansProjects/Unidad1/src/PrimerClienteServidorTCP/ClienteTCP.java</file>
-            <file>file:/C:/Users/sndmo/Documents/NetBeansProjects/Unidad1/src/PrimerClienteServidorTCP/ClienteECHOTCP.java</file>
+            <file>file:/C:/Users/sndmo/Documents/NetBeansProjects/Unidad1/src/PrimerClienteServidorTCP/FileServer.java</file>
+            <file>file:/C:/Users/sndmo/Documents/NetBeansProjects/Unidad1/src/PrimerClienteServidorTCP/FileClient.java</file>
+            <file>file:/C:/Users/sndmo/Documents/NetBeansProjects/Unidad1/src/javaNIO/LectorArchivo.java</file>
         </group>
     </open-files>
 </project-private>
